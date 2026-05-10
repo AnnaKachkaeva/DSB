@@ -3,9 +3,9 @@ import pandas as pd
 
 # Load CSV file
 dfArray = [
-    # pd.read_csv("Brent Oil.csv"),
-    # pd.read_csv("Gold 100years.csv"),
-    # pd.read_csv("silver 100 years.csv"),
+    pd.read_csv("Brent Oil.csv"),
+    pd.read_csv("Gold 100years.csv"),
+    pd.read_csv("silver 100 years.csv"),
     pd.read_csv("swift_currency_tracker_all_reports.csv")
 ]
 
