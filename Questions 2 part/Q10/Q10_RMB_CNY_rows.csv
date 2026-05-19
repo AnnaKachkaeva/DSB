@@ -1,0 +1,25 @@
+report_month,data_month,source_report_name,metric,category,currency_or_economy,value,unit,notes,_report_month_parsed,_data_month_parsed,_parsed_month
+April 2026,March 2026,Global Currency Tracker,Global Payment Share,Currency Ranking,CNY,3.1,%,Rank 5,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,International Payment Share (ex-Eurozone),Currency Ranking,CNY,2.44,%,Rank 6,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Hong Kong,75.23,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,United Kingdom,6.9,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Singapore,4.37,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,United States,2.81,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,France,1.8,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Taiwan,1.34,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Macao,1.29,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,South Korea,1.14,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Japan,0.8,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Germany,0.66,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Australia,0.63,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Belgium,0.49,%,Non-clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Luxembourg,0.43,%,Non-clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Netherlands,0.36,%,Non-clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Offshore RMB by Economy,Offshore Economies,Canada,0.2,%,Clearing centre,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,Trade Finance Share,Currency Ranking,CNY,8.04,%,Rank 2,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,United Kingdom,39.47,%,,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,United States,15.59,%,,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,France,10.23,%,,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,Hong Kong,9.16,%,,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,China,5.99,%,,2026-04-01,2026-03-01,2026-04-01
+April 2026,March 2026,Global Currency Tracker,FX Spot Economies (RMB),Offshore Economies,Others,19.56,%,,2026-04-01,2026-03-01,2026-04-01
