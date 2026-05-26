@@ -1,1 +1,4 @@
-Based on the analysis from January 2026 to March 2026, Oil looks like the most sensitive market to global events. It ranks 1st with a sensitivity score of 41.47, monthly return volatility of 34.433%, and a maximum absolute monthly change of 52.025%. This is higher than Gold, which ranks 2nd with a score of 13.086. The result suggests that Oil reacted more strongly to global shocks during the common analysis period (January 2026 to March 2026), as shown in the sensitivity summary table and the market sensitivity score chart.
+Based on the analysis from January 2026 to March 2026, Oil looks like the most sensitive market to global events.
+It ranks 1st with a sensitivity score of 41.47, monthly return volatility of 34.433%, and a maximum absolute monthly change of 52.025%.
+This is higher than Gold, which ranks 2nd with a score of 13.086. 
+The result suggests that Oil reacted more strongly to global shocks during the common analysis period (January 2026 to March 2026), as shown in the sensitivity summary table and the market sensitivity score chart.
