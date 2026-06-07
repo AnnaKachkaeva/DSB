@@ -1,9 +1,9 @@
 # Data Science &amp; Business project
 
-**Anna Kachkaeva**	Lead
+**Anna Kachkaeva**: Lead
 
-**Kevinkumar Chandubhai Lad**	Co-lead	
+**Kevinkumar Chandubhai Lad**:	Co-lead	
 
-**Anush Kumar** Data Analyst
+**Anush Kumar**: Data Analyst
 
-**Amal Siby**	Market-researcher	
+**Amal Siby**:	Market-researcher	
